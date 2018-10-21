@@ -1,0 +1,24 @@
+ID,English,Chinese,TraditionalChinese,Japanese
+唯一标识,英文,中文,繁体中文,日语
+SINGAL_FIRE_TITLE,Signal Fire in North and South Dynasties,烽火南北朝,,
+BACK,Back,返回,返回,戻る
+START_GAME,Start Game,开始游戏,,
+QUIT_GAME,Quit Game,退出游戏,退出遊戲,
+PENNY,Penny,文,,
+LANGUAGE,Language: ,语言：,,
+SCORES,Scores: ,分数：,,
+GOLDS,Golds: ,金币：,,
+SETTINGS,Settings,设置,,
+HEAL,Heal,回血,,
+MALL,Mall,商城,,
+GAME_OVER,Game Over,游戏结束,,
+OK,OK,确定,,
+CHINESE,Chinese,中文,,
+ENGLISH,English,英文,,
+PURCHASE,Purchase,购买,,
+INVENTORY,Inventory,持有物品,,
+STOCK,Stock: ,库存：,,
+TOTAL_COST,Total Cost: ,总价：,,
+PRICE,Price: ,售价：,,
+OWNED,Owned: ,持有：,,
+
